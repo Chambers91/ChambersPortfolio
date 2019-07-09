@@ -34,15 +34,16 @@ class LandingPage extends Component {
                   rel='noopener noreferrer'
                   target='_blank'
                 >
-                  <i class='fa fa-github-square  ' />
+                  <i class='fa fa-github-square  ' aria-hidden='true' />
                 </a>
+
                 {/* Resume*/}
                 <a
                   href='http://google.com'
                   rel='noopener noreferrer'
                   target='_blank'
                 >
-                  <i class='fa fa-file-download' />
+                  <i class='fa fa-download' aria-hidden='true' />
                 </a>
               </div>
             </div>
