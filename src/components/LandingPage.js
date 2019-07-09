@@ -14,6 +14,38 @@ class LandingPage extends Component {
             />
             <div className='banner-text'>
               <h1>Full Stack Web Developer</h1>
+              <hr />
+              <p>
+                HTML | CSS | Bootstrap | Angular | React | NodeJS | Express |
+                MongoDB
+              </p>
+              <div className='social-links'>
+                {/* LinkedIn*/}
+                <a
+                  href='https://www.linkedin.com/in/terence-chambers-59666787/'
+                  rel='noopener noreferrer'
+                  target='_blank'
+                >
+                  <i className='fa fa-linkedin-square' aria-hidden='true' />
+                </a>
+                {/* GitHub*/}
+                <a
+                  href='https://github.com/Chambers91'
+                  rel='noopener noreferrer'
+                  target='_blank'
+                >
+                  <i class='fa fa-github-square  ' aria-hidden='true' />
+                </a>
+
+                {/* Resume*/}
+                <a
+                  href='http://google.com'
+                  rel='noopener noreferrer'
+                  target='_blank'
+                >
+                  <i class='fa fa-download' aria-hidden='true' />
+                </a>
+              </div>
             </div>
           </Cell>
         </Grid>
