@@ -12,6 +12,9 @@ class LandingPage extends Component {
               alt='Chambers_Avatar'
               className='avatar'
             />
+            <div className='banner-text'>
+              <h1>Full Stack Web Developer</h1>
+            </div>
           </Cell>
         </Grid>
       </div>
