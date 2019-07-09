@@ -32,7 +32,7 @@
   height: 250px;
 }
 .banner-text {
-  background-color: black;
+  background-color: gray;
   opacity: 0.8;
   width: 75%;
   margin: auto;
@@ -42,4 +42,28 @@
   font-size: 66px;
   font-weight: bold;
   color: white;
+  text-align: center;
+}
+.banner-text hr {
+  border-top: 5px groove white;
+  width: 100%;
+  margin: auto;
+}
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+}
+.social-links {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
 }
