@@ -25,11 +25,21 @@
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .avatar {
-  border-radius: 15px 50px 30px;
+  /* border-radius: 15px 50px 30px;
   background: white;
   padding: 2px;
   width: 200px;
   height: 250px;
+   */
+
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
 }
 .banner-text {
   background-color: black;

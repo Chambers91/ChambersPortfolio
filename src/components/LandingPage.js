@@ -4,11 +4,10 @@ import { Grid, Cell } from 'react-mdl';
 class LandingPage extends Component {
   render() {
     return (
-      <div style={{ width: '100%', margin: 'auto' }}>
+      <div style={{ width: '100%', margin: 'auto', alignItems: 'center' }}>
         <Grid className='landing-grid'>
           <Cell col={12}>
             <img
-              textalign='center'
               src='https://media.licdn.com/dms/image/C4E03AQEApoV6z0FEkg/profile-displayphoto-shrink_200_200/0?e=1567641600&v=beta&t=g4cMaYJziPPjsaWdUxEscvZAXgKq0uq4G46MsdBklE4'
               alt='Chambers_Avatar'
               className='avatar'
@@ -43,6 +42,7 @@ class LandingPage extends Component {
                   href='http://google.com'
                   rel='noopener noreferrer'
                   target='_blank'
+                  download='Chambers_Resume'
                 >
                   <i class='fa fa-download' aria-hidden='true' />
                 </a>
