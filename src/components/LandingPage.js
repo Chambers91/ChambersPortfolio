@@ -8,6 +8,7 @@ class LandingPage extends Component {
         <Grid className='landing-grid'>
           <Cell col={12}>
             <img
+              textalign='center'
               src='https://media.licdn.com/dms/image/C4E03AQEApoV6z0FEkg/profile-displayphoto-shrink_200_200/0?e=1567641600&v=beta&t=g4cMaYJziPPjsaWdUxEscvZAXgKq0uq4G46MsdBklE4'
               alt='Chambers_Avatar'
               className='avatar'
