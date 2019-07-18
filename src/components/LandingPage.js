@@ -39,7 +39,7 @@ class LandingPage extends Component {
 
                 {/* Resume*/}
                 <a
-                  href='http://google.com'
+                  href='https://drive.google.com/file/d/135pNZUAicnfQDznfJqRHS1l_zSZN5-ze/view?usp=sharing'
                   rel='noopener noreferrer'
                   target='_blank'
                   download='Chambers_Resume'

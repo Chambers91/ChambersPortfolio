@@ -119,3 +119,10 @@
   background: #000034;
   color: white;
 }
+.resumephoto {
+  border-radius: 15px 50px 30px;
+  background: white;
+  padding: 2px;
+  width: 200px;
+  height: 250px;
+}
