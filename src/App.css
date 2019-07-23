@@ -115,14 +115,27 @@
   font-size: 60px;
   padding-right: 2rem;
 }
+.contact-photo {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+}
 .resume-body {
   background: #000034;
   color: white;
 }
 .resumephoto {
-  border-radius: 15px 50px 30px;
-  background: white;
-  padding: 2px;
-  width: 200px;
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 250px;
   height: 250px;
+  border-radius: 100%;
 }

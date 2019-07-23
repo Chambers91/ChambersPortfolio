@@ -15,9 +15,18 @@ class Aboutme extends Component {
             <div className='banner-text'>
               <hr />
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                I am a fun, friendly and passionate software engineer in the
+                Cincinnati, OH/Northern KY area. The Tech Stack I am most
+                interested in using includes MongoDB, Express, Node and any
+                programming language using a JavaScript framework. I have been
+                coding as a part of the Tech Community since 2013 working with
+                HTML, CSS, and Vanilla JavaScript. Currently, I am working on
+                side projects utilizing Angular and React while simultaneously
+                learning Python for my personal education and usage. During my
+                free time, I enjoy attending local meetups, watching movies, and
+                spending time with my family. Some of my hobbies are
+                photography, weightlifting and sneaker shopping.
               </p>
-
             </div>
           </Cell>
         </Grid>

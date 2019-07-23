@@ -13,6 +13,7 @@ class Contact extends Component {
               src='https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/49680386_1715985571835995_2923186279602454528_n.jpg?_nc_cat=100&_nc_oc=AQkkXGi1Ipp4Sq8tKeiSqVwgVVXnhZeKj9Zc10wRdGAQJNcjfY1hsoiW35GLrL7wlElcbmr7pSQTKmHQDT5kOpx3&_nc_ht=scontent-ort2-1.xx&oh=ac82d53f8a53c92e61ae989032ee6554&oe=5DC2DBC3'
               alt='avatar'
               style={{ height: '250px' }}
+              className='contact-photo'
             />
             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
               lorem ipsumUllamco culpa eiusmod nostrud enim. Ipsum proident

@@ -13,13 +13,13 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{ textAlign: 'center' }}>
               <img
-                src='https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/49680386_1715985571835995_2923186279602454528_n.jpg?_nc_cat=100&_nc_oc=AQkkXGi1Ipp4Sq8tKeiSqVwgVVXnhZeKj9Zc10wRdGAQJNcjfY1hsoiW35GLrL7wlElcbmr7pSQTKmHQDT5kOpx3&_nc_ht=scontent-ort2-1.xx&oh=ac82d53f8a53c92e61ae989032ee6554&oe=5DC2DBC3'
+                src='https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18404176_1572366812798046_1862638690949106751_o.jpg?_nc_cat=111&_nc_oc=AQl4FhaY10M-IDj2L3CuxwFIp6Nc0LS_GyDZ_wvUO_-xCZiDEsNVi28Ex1kHXioHT6bm9yrgU5lmjZpDSgslMbQp&_nc_ht=scontent-ort2-1.xx&oh=4f032d6bd3cbe07258ba5b60ba67844f&oe=5DE4A191'
                 alt='avatar'
                 style={{ height: '250px' }}
                 className='resumephoto'
               />
             </div>
-            <h2 style={{ paddingTop: '2em' }}>Terence Chambers</h2>
+            <h2 style={{ paddingTop: '0em' }}>Terence Chambers</h2>
             <h4 style={{ color: 'grey' }}>Web Developer</h4>
             <hr style={{ borderTop: '3px solid #000080', width: '54%' }} />
             <p>
