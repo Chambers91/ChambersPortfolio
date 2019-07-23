@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import AboutMe from './Aboutme';
+import Projects from './Projects';
+import Resume from './Resume';
+import Contact from './Contact';
 
 class LandingPage extends Component {
   render() {
@@ -50,6 +54,14 @@ class LandingPage extends Component {
             </div>
           </Cell>
         </Grid>
+        <hr />
+        <AboutMe />
+        <hr />
+        <Projects />
+        <hr />
+        <Resume />
+        <hr />
+        <Contact />
       </div>
     );
   }
