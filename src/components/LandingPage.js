@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl';
+import { Grid, Cell, Button } from 'react-mdl';
 import AboutMe from './Aboutme';
 import Projects from './Projects';
-import Resume from './Resume';
 import Contact from './Contact';
 
 class LandingPage extends Component {
@@ -52,16 +51,29 @@ class LandingPage extends Component {
                 </a>
               </div>
             </div>
+            <hr />
+            <h1>About Me</h1>
+            <hr />
+            <AboutMe />
+            <hr />
+            <h1>Projects</h1>
+            <hr />
+            <Projects />
+            <hr />
+            <h1>Contact Me</h1>
+            <hr />
+            <Contact />
+            <Button style={{ textAlign: 'justify', color: 'white' }}>
+              Email
+            </Button>
+            <Button style={{ textAlign: 'justify', color: 'white' }}>
+              LinkedIn
+            </Button>
+            <Button style={{ textAlign: 'justify', color: 'white' }}>
+              Github
+            </Button>
           </Cell>
         </Grid>
-        <hr />
-        <AboutMe />
-        <hr />
-        <Projects />
-        <hr />
-        <Resume />
-        <hr />
-        <Contact />
       </div>
     );
   }

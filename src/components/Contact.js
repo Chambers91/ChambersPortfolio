@@ -15,13 +15,6 @@ class Contact extends Component {
               style={{ height: '250px' }}
               className='contact-photo'
             />
-            <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
-              lorem ipsumUllamco culpa eiusmod nostrud enim. Ipsum proident
-              incididunt exercitation ut sit excepteur esse sit consequat in
-              aliquip dolor dolore duis. Voluptate anim culpa magna duis dolor.
-              Aliqua enim excepteur voluptate anim mollit ex commodo. Velit
-              culpa mollit mollit officia dolor ullamco ea deserunt duis.
-            </p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>

@@ -24,6 +24,7 @@ class Projects extends Component {
       return (
         <div className='projects-grid'>
           {/* {ReactProject 1} */}
+
           <Card shadow={0} style={{ width: '512px', margin: 'auto' }}>
             <CardTitle
               style={{
@@ -47,7 +48,6 @@ class Projects extends Component {
               <IconButton name='share' />
             </CardMenu>
           </Card>
-
           {/* {Project 2} */}
           <Card shadow={0} style={{ width: '512px', margin: 'auto' }}>
             <CardTitle
@@ -72,7 +72,6 @@ class Projects extends Component {
               <IconButton name='share' />
             </CardMenu>
           </Card>
-
           {/* {Project 3} */}
           <Card shadow={0} style={{ width: '512px', margin: 'auto' }}>
             <CardTitle
