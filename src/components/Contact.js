@@ -43,9 +43,13 @@ class Contact extends Component {
                     }}
                   >
                     <i class='fa fa-linkedin' aria-hidden='true' />
-                    <Link to='https://www.linkedin.com/in/terence-chambers-59666787/'>
-                      /Terence Chambers
-                    </Link>
+                    <a
+                      href='https://www.linkedin.com/in/chambers91/'
+                      rel='noopener noreferrer'
+                      target='_blank'
+                    >
+                      /chambers91
+                    </a>
                   </ListItemContent>
                 </ListItem>
                 <ListItem>
