@@ -63,13 +63,28 @@ class LandingPage extends Component {
             <h1>Contact Me</h1>
             <hr />
             <Contact />
-            <Button style={{ textAlign: 'justify', color: 'white' }}>
+            <Button
+              style={{ textAlign: 'justify', color: 'white', font: '' }}
+              className='emailpopup'
+            >
               Email
             </Button>
-            <Button style={{ textAlign: 'justify', color: 'white' }}>
+            <Button
+              style={{ textAlign: 'justify', color: 'white' }}
+              href='https://www.linkedin.com/in/chambers91/'
+              rel='noopener noreferrer'
+              target='_blank'
+              className='linkedin'
+            >
               LinkedIn
             </Button>
-            <Button style={{ textAlign: 'justify', color: 'white' }}>
+            <Button
+              style={{ textAlign: 'justify', color: 'white' }}
+              href='https://github.com/chambers91'
+              rel='noopener noreferrer'
+              target='_blank'
+              className='github'
+            >
               Github
             </Button>
           </Cell>

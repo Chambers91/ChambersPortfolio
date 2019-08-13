@@ -148,3 +148,36 @@ button {
   text-align: center;
   color: white;
 }
+.emailpopup {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 48%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  font-family: 'Monoton', cursive;
+}
+.linkedin {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 30%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  font-family: 'Monoton', cursive;
+}
+.github {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  font-family: 'Monoton', cursive;
+}
