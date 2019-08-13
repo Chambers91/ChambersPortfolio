@@ -25,7 +25,7 @@ class Contact extends Component {
                   <ListItemContent
                     style={{
                       fontSize: '20px',
-                      fontFamily: 'Anton',
+                      fontFamily: 'Righteous',
                       fontWeight: 'bold'
                     }}
                   >
@@ -38,7 +38,7 @@ class Contact extends Component {
                   <ListItemContent
                     style={{
                       fontSize: '21px',
-                      fontFamily: 'Anton',
+                      fontFamily: 'Righteous',
                       fontWeight: 'bold'
                     }}
                   >
@@ -56,7 +56,7 @@ class Contact extends Component {
                   <ListItemContent
                     style={{
                       fontSize: '20px',
-                      fontFamily: 'Anton',
+                      fontFamily: 'Righteous',
                       fontWeight: 'bold'
                     }}
                   >

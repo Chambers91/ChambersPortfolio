@@ -158,6 +158,8 @@ button {
   border-style: solid;
   border-color: #555 transparent transparent transparent;
   font-family: 'Monoton', cursive;
+  font-family: 'Righteous', cursive;
+  font-family: 'Press Start 2P', cursive;
 }
 .linkedin {
   content: '';
@@ -168,7 +170,9 @@ button {
   border-width: 5px;
   border-style: solid;
   border-color: #555 transparent transparent transparent;
+  font-family: 'Press Start 2P', cursive;
   font-family: 'Monoton', cursive;
+  font-family: 'Righteous', cursive;
 }
 .github {
   content: '';
@@ -180,4 +184,6 @@ button {
   border-style: solid;
   border-color: #555 transparent transparent transparent;
   font-family: 'Monoton', cursive;
+  font-family: 'Righteous', cursive;
+  font-family: 'Press Start 2P', cursive;
 }

@@ -16,9 +16,11 @@ class LandingPage extends Component {
               className='avatar'
             />
             <div className='banner-text'>
-              <h1>Full Stack Web Developer</h1>
+              <h1 style={{ fontFamily: 'Righteous' }}>
+                Full Stack Web Developer
+              </h1>
               <hr />
-              <p>
+              <p style={{ fontFamily: 'Righteous' }}>
                 HTML | CSS | Bootstrap | Angular | React | NodeJS | Express |
                 MongoDB
               </p>
@@ -39,7 +41,6 @@ class LandingPage extends Component {
                 >
                   <i class='fa fa-github-square  ' aria-hidden='true' />
                 </a>
-
                 {/* Resume*/}
                 <a
                   href='https://drive.google.com/file/d/135pNZUAicnfQDznfJqRHS1l_zSZN5-ze/view?usp=sharing'
@@ -52,25 +53,37 @@ class LandingPage extends Component {
               </div>
             </div>
             <hr />
-            <h1>About Me</h1>
+            <h1 style={{ fontFamily: 'Righteous' }}>About Me</h1>
             <hr />
             <AboutMe />
             <hr />
-            <h1>Projects</h1>
+            <h1 style={{ fontFamily: 'Righteous' }}>Projects</h1>
             <hr />
             <Projects />
             <hr />
-            <h1>Contact Me</h1>
+            <h1 style={{ fontFamily: 'Righteous' }}>Contact Me</h1>
             <hr />
             <Contact />
+
+            {/* EMAIL  BUTTON*/}
             <Button
-              style={{ textAlign: 'justify', color: 'white', font: '' }}
+              style={{
+                textAlign: 'justify',
+                color: 'white',
+                fontFamily: 'Righteous'
+              }}
               className='emailpopup'
             >
               Email
             </Button>
+
+            {/* LINKEDIN BUTTON */}
             <Button
-              style={{ textAlign: 'justify', color: 'white' }}
+              style={{
+                textAlign: 'justify',
+                color: 'white',
+                fontFamily: 'Righteous'
+              }}
               href='https://www.linkedin.com/in/chambers91/'
               rel='noopener noreferrer'
               target='_blank'
@@ -78,8 +91,14 @@ class LandingPage extends Component {
             >
               LinkedIn
             </Button>
+
+            {/* GITHUB BUTTON */}
             <Button
-              style={{ textAlign: 'justify', color: 'white' }}
+              style={{
+                textAlign: 'justify',
+                color: 'white',
+                fontFamily: 'Righteous'
+              }}
               href='https://github.com/chambers91'
               rel='noopener noreferrer'
               target='_blank'
