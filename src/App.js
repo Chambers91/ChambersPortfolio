@@ -26,8 +26,10 @@ function App() {
             <Link to='/contact'>Contact</Link>
           </Navigation>
         </Drawer>
+
         <Content>
           <div className='page-content' />
+          <hr className='header-line' />
           <Main />
         </Content>
       </Layout>
