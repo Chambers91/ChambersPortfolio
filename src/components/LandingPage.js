@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Grid, Cell, Button } from 'react-mdl';
 import AboutMe from './Aboutme';
 import Projects from './Projects';
-import Contact from './Contact';
 
 class LandingPage extends Component {
   render() {
@@ -63,8 +62,6 @@ class LandingPage extends Component {
             <hr />
             <h1 style={{ fontFamily: 'Righteous' }}>Contact Me</h1>
             <hr />
-            <Contact />
-
             {/* EMAIL  BUTTON*/}
             <Button
               style={{

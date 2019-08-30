@@ -182,9 +182,8 @@ button {
   border-width: 5px;
   border-style: solid;
   border-color: #555 transparent transparent transparent;
-  font-family: 'Monoton', cursive;
   font-family: 'Righteous', cursive;
-  font-family: 'Press Start 2P', cursive;
+
 }
 h1 {
   text-shadow: 2px 6px gray;
