@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell, Button } from 'react-mdl';
 import AboutMe from './Aboutme';
+import Email from './Popup';
 
 class LandingPage extends Component {
   render() {
@@ -59,18 +60,8 @@ class LandingPage extends Component {
             <hr /> */}
             <h1 style={{ fontFamily: 'Righteous' }}>Contact Me</h1>
             <hr />
-
             {/* EMAIL  BUTTON*/}
-            <Button
-              style={{
-                textAlign: 'justify',
-                color: 'white',
-                fontFamily: 'Righteous'
-              }}
-              className='emailpopup'
-            >
-              Email
-            </Button>
+            <Email />
             <hr />
 
             {/* LINKEDIN BUTTON */}
@@ -84,6 +75,8 @@ class LandingPage extends Component {
               rel='noopener noreferrer'
               target='_blank'
               className='linkedin'
+              raised
+              ripple
             >
               LinkedIn
             </Button>
@@ -99,6 +92,8 @@ class LandingPage extends Component {
               rel='noopener noreferrer'
               target='_blank'
               className='github'
+              raised
+              ripple
             >
               Github
             </Button>
