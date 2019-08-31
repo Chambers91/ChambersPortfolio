@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import { Grid, Cell, Button } from 'react-mdl';
+import { Grid, Cell } from 'react-mdl';
 import AboutMe from './Aboutme';
 import Email from './Popup';
+import GHButton from './GithubButton';
+import LIButton from './LIButton';
 
 class LandingPage extends Component {
   render() {
@@ -15,7 +17,7 @@ class LandingPage extends Component {
               className='avatar'
             />
             <div className='banner-text'>
-              <h1 style={{ fontFamily: 'Righteous' }}>
+              <h1 style={{ fontFamily: 'Righteous', fontSize: '8vw' }}>
                 Full Stack Web Developer
               </h1>
               <hr />
@@ -65,38 +67,11 @@ class LandingPage extends Component {
             <hr />
 
             {/* LINKEDIN BUTTON */}
-            <Button
-              style={{
-                textAlign: 'justify',
-                color: 'white',
-                fontFamily: 'Righteous'
-              }}
-              href='https://www.linkedin.com/in/chambers91/'
-              rel='noopener noreferrer'
-              target='_blank'
-              className='linkedin'
-              raised
-              ripple
-            >
-              LinkedIn
-            </Button>
+            <LIButton />
             <hr />
+
             {/* GITHUB BUTTON */}
-            <Button
-              style={{
-                textAlign: 'justify',
-                color: 'white',
-                fontFamily: 'Righteous'
-              }}
-              href='https://github.com/chambers91'
-              rel='noopener noreferrer'
-              target='_blank'
-              className='github'
-              raised
-              ripple
-            >
-              Github
-            </Button>
+            <GHButton />
           </Cell>
         </Grid>
       </div>

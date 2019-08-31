@@ -157,14 +157,13 @@ button {
 .linkedin {
   font-size: 0.875em;
   display: block;
-  margin-top: 35px;
+  margin-top: auto;
   width: 100%;
   font-family: 'Righteous', cursive;
 }
 .github {
   font-size: 0.875em;
   display: block;
-
   margin-top: 35px;
   width: 100%;
   font-family: 'Righteous', cursive;
