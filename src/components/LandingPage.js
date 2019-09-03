@@ -62,16 +62,14 @@ class LandingPage extends Component {
             <hr /> */}
             <h1 style={{ fontFamily: 'Righteous' }}>Contact Me</h1>
             <hr />
-            {/* EMAIL  BUTTON*/}
-            <Email />
-            <hr />
-
             {/* LINKEDIN BUTTON */}
             <LIButton />
             <hr />
-
             {/* GITHUB BUTTON */}
             <GHButton />
+            <hr />
+            {/* EMAIL  BUTTON*/}
+            <Email />
           </Cell>
         </Grid>
       </div>
