@@ -40,22 +40,27 @@
   background: white;
 }
 .banner-text {
-  background-color: black;
-  opacity: 0.8;
-  width: 75%;
+  background-color: grey;
+  opacity: 0.5;
   margin: auto;
   border-radius: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 75%;
+  height: auto;
 }
 .banner-text h1 {
   font-size: 66px;
   font-weight: bold;
   color: white;
   text-align: center;
-  text-shadow: 2px 2px gray;
+  text-shadow: 4px 4px black;
 }
 .banner-text hr {
-  border-top: 5px groove white;
-  width: 100%;
+  border-bottom: 5px groove white;
+  width: 80%;
   margin: auto;
 }
 .banner-text p {
@@ -175,4 +180,9 @@ h1 {
   border-top: 5px groove white;
   width: 100%;
   margin: auto;
+}
+p {
+  text-align: center;
+  font-size: 15vw;
+  color: #f0f2f0;
 }
