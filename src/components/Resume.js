@@ -13,26 +13,27 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{ textAlign: 'center' }}>
               <img
-                src='https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18404176_1572366812798046_1862638690949106751_o.jpg?_nc_cat=111&_nc_oc=AQl4FhaY10M-IDj2L3CuxwFIp6Nc0LS_GyDZ_wvUO_-xCZiDEsNVi28Ex1kHXioHT6bm9yrgU5lmjZpDSgslMbQp&_nc_ht=scontent-ort2-1.xx&oh=4f032d6bd3cbe07258ba5b60ba67844f&oe=5DE4A191'
+                src='gradpic.jpg'
                 alt='avatar'
                 style={{ height: '250px' }}
                 className='resumephoto'
               />
             </div>
-            <h2 style={{ paddingTop: '0em' }}>Terence Chambers</h2>
+            {/* <h2 style={{ paddingTop: '0em' }}>Terence Chambers</h2> */}
             <h4 style={{ color: 'grey' }}>Web Developer</h4>
             <hr style={{ borderTop: '3px solid #000080', width: '54%' }} />
-            <p>
-              Lorem ipsum dolor sit amet, duis vivendum ne duo, ne pri dolore
-              libris referrentur. Ut velit causae ponderum per, no nec mundi
-              eligendi. Per tantas postulant torquatos ad. Pro probatus pericula
-              vituperata id. An choro graeco inermis mel.
+            <p style={{ fontFamily: 'Righteous', color: 'black' }}>
+              During my Junior and Senior year in highschool I attended the
+              Miami Valley Career Technology Center. It is a tech prep school
+              that provides hands on skills for jobs right out of highschool
+              into the real world. I studied hardware and software development
+              my last two years of highschool. I then attended Sinclair in 2010
+              for my associate degree in Information Systems. After that degree
+              I knew I wanted to learn more and pursue a career in the developer
+              world of tech. From 2012- 2017, I moved to Cincinnati, Ohio to
+              pursue my Bachelors degree in Software App development.
             </p>
             <hr style={{ borderTop: '3px solid #000080', width: '54%' }} />
-            <h5>Address</h5>
-            <p> 1 Hacker Way</p>
-            <h5>Phone</h5>
-            <p>000-000-0000</p>
             <h5>Email</h5>
             <p>terencechambers91@gmail.com</p>
             <p />
