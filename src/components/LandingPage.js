@@ -18,6 +18,7 @@ class LandingPage extends Component {
               </h1>
               <hr />
             </div>
+            <br />
             <div className='code-details'>
               <p style={{ fontFamily: 'Righteous' }}>
                 HTML | CSS | Bootstrap | Angular | React | NodeJS | Express |
