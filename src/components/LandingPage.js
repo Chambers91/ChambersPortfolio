@@ -18,11 +18,12 @@ class LandingPage extends Component {
               </h1>
               <hr />
             </div>
-
-            <p style={{ fontFamily: 'Righteous' }}>
-              HTML | CSS | Bootstrap | Angular | React | NodeJS | Express |
-              MongoDB
-            </p>
+            <div className='code-details'>
+              <p style={{ fontFamily: 'Righteous' }}>
+                HTML | CSS | Bootstrap | Angular | React | NodeJS | Express |
+                MongoDB
+              </p>
+            </div>
             <div className='social-links'>
               {/* LinkedIn*/}
               <a

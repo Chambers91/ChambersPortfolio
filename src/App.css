@@ -181,7 +181,7 @@ h1 {
   width: 100%;
   margin: auto;
 }
-p {
+.code-details {
   text-align: center;
   font-size: 15;
   color: #f0f2f0;
