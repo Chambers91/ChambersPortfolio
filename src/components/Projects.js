@@ -34,11 +34,11 @@ class Projects extends Component {
                   'url(https://raddevon.com/wp-content/uploads/2018/10/react.jpg) center / cover'
               }}
             >
-              Name of Project
+              Github Profile Finder
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              A project used to search for different Github Users and View their
+              profiles and projects.
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -61,12 +61,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -85,12 +86,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -111,15 +113,16 @@ class Projects extends Component {
                   'url(https://www.valuecoders.com/blog/wp-content/uploads/2019/03/angulr8feat.jpg) center / cover'
               }}
             >
-              Name of Project
+              Blue Gopher Startup App
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -139,12 +142,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -164,12 +168,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -193,12 +198,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -218,12 +224,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -243,12 +250,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -269,15 +277,15 @@ class Projects extends Component {
                   'url(https://raddevon.com/wp-content/uploads/2018/10/react.jpg) center / cover'
               }}
             >
-              Name of Project
+              Seeds 4 Life Webpage
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I voluntarily made this website for a non profit company just for
+              fun and as a service to the comapny Seeds 4 Life Inc.
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -297,12 +305,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -322,12 +331,13 @@ class Projects extends Component {
               Name of Project
             </CardTitle>
             <CardText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia...
+              I do not have many small projects I want to share at this moment.
+              I prefer to do one project and continue to build on it. More
+              Projects coming soon !
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>Leve Demo</Button>
+              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
               <IconButton name='share' />
@@ -348,7 +358,7 @@ class Projects extends Component {
         >
           <Tab>React</Tab>
           <Tab>Angular</Tab>
-          <Tab>HTML</Tab>
+          <Tab>Javascript</Tab>
         </Tabs>
         <Grid>
           <Cell col={12}>
